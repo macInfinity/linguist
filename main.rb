@@ -13,6 +13,9 @@ Usage: linguist <path>
        linguist [--rev REV] [--breakdown] [--json]
 HELP
 
+#
+# comment change
+
 def github_linguist(args)
   breakdown = false
   json_output = false
